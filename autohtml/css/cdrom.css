@@ -1,0 +1,139 @@
+
+
+/* base tags
+---------------------------------------------------------------------- */
+
+body{
+  position: relative;
+  line-height:1.6;
+  font-family: "Hiragino Kaku Gothic Pro", "Trebuchet MS", "Lucida Grande", Verdana, Lucida, Tahoma, Helvetica, Arial, Osaka, sans-serif;
+  font-size: 0.8em;
+  color: #000;
+  text-align: left;
+}
+
+#head {
+    width: 850px;
+    margin: 0 auto;
+    border: solid #333;
+    border-width: 0 0px 4px 0px;
+}
+#abiLogo {
+	background: url('http://www.abiworld.org/meetings/images/ABI-logo-2013.jpg') no-repeat;
+	width: 269px;
+	height: 100px;
+}
+#siteTitle {
+    background: url('http://www.abiworld.org/meetings/images/meetings.jpg') no-repeat;
+    width: 400px;
+    height: 100px;
+    float: right;
+}
+
+
+#pagewrap {
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid #333;
+    background: #FFFFFF;
+    }
+    
+#hd {
+	color: white;
+	padding: 0;
+    margin: 0;
+    background: #fffff0;
+	}
+	
+
+#contentwrap {
+    padding: 1em 2.5em;
+    clear: both;
+    }
+	
+#ft {
+	text-align: center;
+	font-size: 80%;
+	color: #666;
+	padding: 3em;
+	}
+
+#navcontainer {
+padding: 0;
+margin: 0;
+}
+#navcontainer ul
+{
+padding: 0;
+margin: 0;
+background-color: #fffff0;
+color: White;
+float: left;
+width: 100%;
+font-family: arial, helvetica, sans-serif;
+border-top: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+padding: 0.2em .7em;
+background-color: #fffff0;
+color: #333;
+text-decoration: none;
+float: left;
+border-right: 1px solid #ccc;
+}
+
+#navcontainer ul li a:visited
+{
+color: #333;
+}
+
+#navcontainer ul li a:hover
+{
+background-color: #d0dbe5;
+color: #333;
+}
+
+.space p {
+    margin: 1em 0;
+}
+
+.space ul {
+	list-style: circle;
+	margin: .5em;
+}
+.space li {
+	margin-left: 1em;
+	}
+
+
+#officers {
+    width: 100%;
+}
+#officers td {
+    padding: 1em;
+}
+	
+#about-abi-sidebar {
+    float: left;
+    margin: 0 1em 1em 0;
+    border: 1px solid #ccc;
+    background: #eee;
+    padding: 1em;
+    }
+#about-abi-sidebar ul li {
+    text-align: center;
+    font-size: 1.3em;
+    padding: 1px;
+}
+#about-abi-sidebar ul li a {
+    color: black;
+}
+
+#kpmg-float {
+    float: right;
+}

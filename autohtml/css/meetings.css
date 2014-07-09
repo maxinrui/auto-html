@@ -1,0 +1,151 @@
+@import "reset.css";
+@import "../ACBPIA/abi-base.css";
+
+/* meetings.abiworld.org styles
+---------------------------------------------------------------------- */
+
+#upcomingListTable {
+    width: 100%;
+    border-top: 1px dotted #ccc;
+}
+#upcomingListTable td {
+    padding: 3px 5px;
+    border-bottom: 1px dotted #ccc;
+}
+
+
+#meetingDetailTable {
+    width: 100%;
+}
+
+#meetingDetailTable .mainCol {
+    padding-right: 1em;
+}
+#meetingDetailTable .rightCol {
+    width: 180px;
+}
+
+.meetingBanner {
+    
+}
+
+
+#conferenceActions { width: 200px; }
+
+#conferenceActions ul
+{
+margin-left: 0;
+padding-left: 0;
+list-style-type: none;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#conferenceActions a
+{
+display: block;
+padding: 6px 12px;
+width: 160px;
+border-bottom: 1px solid #ccc;
+}
+
+#conferenceActions a:link, #navlist a:visited
+{
+color: #333;
+text-decoration: none;
+}
+
+#conferenceActions a:hover
+{
+background-color: #666;
+color: #fff;
+}
+
+
+/* ms word styles
+---------------------------------------------------------------------- */
+	
+#bios p {
+	margin-bottom: 2em;
+	}
+
+
+.Day {
+	text-align: center;
+	color: white;
+	border: #003366;
+	margin-top: 2em;
+	font-size: 140%;
+	padding: 5px;
+	background-color: #C2DBCE;
+	}
+.BlockTime {
+	margin-top: 1em;
+	border-bottom: 1px solid #999;
+	font-size: 140%;
+	}
+.BlockTitle {
+	font-size: 110%;
+	background: #eee;
+	padding: 1px 5px;
+	}
+.Session {
+	margin-top: 1em;
+	margin-left: 1em;
+	font-size: 130%;
+	}
+.SessionRepeat {
+	margin-top: 1em;
+	margin-left: 1em;
+	font-size: 130%;
+	}
+.Session a {
+	padding-left: 24px;
+	background: url(../images/pdf.gif) no-repeat;
+	}
+.Person {
+	margin-left: 3em;
+	font-weight: bold;
+	}
+.Firm {
+	margin-left: 3em;
+	font-style: italic;
+	}
+	
+.pspace p {
+    margin-top: 1.3em;
+}
+
+.h2box {
+	text-align: center;
+	background: #ccc;
+	border: 1px solid #666;
+	font-size: 140%;
+	padding: 5px;
+	}
+
+#officers {
+    width: 100%;
+}
+#officers td {
+    padding: 1em;
+}
+	
+#about-abi-sidebar {
+    float: left;
+    margin: 0 1em 1em 0;
+    border: 1px solid #ccc;
+    background: #eee;
+    padding: 1em;
+    }
+#about-abi-sidebar ul li {
+    text-align: center;
+    font-size: 1.3em;
+    padding: 1px;
+}
+#about-abi-sidebar ul li a {
+    color: black;
+}
+
+#kpmg-float {
+    float: right;
+}

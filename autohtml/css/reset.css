@@ -1,0 +1,45 @@
+/*
+Copyright (c) 2007, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.2.2
+*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+address,caption,cite,code,dfn,th,var{font-style:normal;font-weight:normal;}
+ol,ul {
+	list-style-image: none;
+	list-style-type: disc;
+}
+caption,th {text-align:left;}
+q:before,q:after{content:'';}
+abbr,acronym {border:0;}
+
+
+/* Strong and em */
+.undoreset strong, .undoreset th { font-weight: bold; }
+.undoreset em, .undoreset address, .undoreset caption, .undoreset cite { font-style: italic; }
+/* Table */
+.undoreset table { display: table; border-spacing: 2px; border-collapse: separate; }
+.undoreset tr { display: table-row; vertical-align: inherit; }
+.undoreset td { display: table-cell; border-spacing: 2px; padding: 2px; vertical-align: inherit; text-align: inherit; padding: 1px; border-collapse: none; }
+.undoreset th { display: table-cell; vertical-align: inherit; font-weight: bold; padding: 1px; border-collapse: none; }
+/* Block Items */
+.undoreset p { display: block; margin: 1em 0; }
+.undoreset blockquote { display: block; margin: 1em 40px; }
+.undoreset address { display: block; font-style: italic; }
+.undoreset center { display: block; text-align: center; }
+/* Headers */
+.undoreset h1 { display: block; font-size: 2em; font-weight: bold; margin: .67em 0; }
+.undoreset h2 { display: block; font-size: 1.5em; font-weight: bold; margin: .83em 0; }
+.undoreset h3 { display: block; font-size: 1.17em; font-weight: bold; margin: 1em 0; }
+.undoreset h4 { display: block; font-weight: bold; margin: 1.33em 0; }
+.undoreset h5 { display: block; font-size: 0.83em; font-weight: bold; margin: 1.67em 0; }
+.undoreset h6 { display: block; font-size: 0.67em; font-weight: bold; margin: 2.33em 0; }
+/* Lists */
+.undoreset ul { display: block; list-style-type: disc; margin: 1em 0; padding-left: 40px; }
+.undoreset ol { display: block; list-style-type: decimal; margin: 1em 0; padding-left: 40px; }
+.undoreset li { display: list-item; }
+/* Pre */
+.undoreset pre, .undoreset code { display: block; font-family: Courier New; white-space: pre; margin: 1em 0; }
