@@ -10,6 +10,7 @@
         <title>Abner's alpha version for Automated HTML</title>
 
         <!-- Bootstrap core CSS -->
+        <!-- Today I hit my car, bad day -->
 
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         
