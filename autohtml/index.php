@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="">
-        <title>Learning Github</title>
+        <title>Resolve confilct</title>
 
         <!-- Bootstrap core CSS -->
         <!-- Today I hit my car, bad day -->
