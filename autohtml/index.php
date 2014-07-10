@@ -7,10 +7,11 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="">
-        <title>Abner's alpha version for Automated HTML</title>
+        <title>Learning Github</title>
 
         <!-- Bootstrap core CSS -->
         <!-- Today I hit my car, bad day -->
+        <!-- I bought a touch up pen, which is much cheaper -->
 
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         
