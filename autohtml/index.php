@@ -12,6 +12,7 @@
         <!-- Bootstrap core CSS -->
         <!-- Today I hit my car, bad day -->
         <!-- I bought a touch up pen, which is much cheaper -->
+        <!-- try to cause some problems -->
 
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
         
