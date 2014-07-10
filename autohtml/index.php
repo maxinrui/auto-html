@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <link rel="shortcut icon" href="">
-        <title>Abner's alpha version for Automated HTML</title>
+        <title>Learning Github</title>
 
         <!-- Bootstrap core CSS -->
         <!-- Today I hit my car, bad day -->
